@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SPIDER APP DEV TASK</string>
+    <string name="action_settings">Settings</string>
+    <string name="spider_inductions_2016">Spider Inductions 2016</string>
+    <string name="name">Name:</string>
+    <string name="enter_name">Your Name</string>
+    <string name="roll_number">Roll Number:</string>
+    <string name="enter_roll_number">Your Roll Number</string>
+    <string name="department">Department:</string>
+    <string name="app_dev">APP DEV</string>
+    <string name="web_dev">WEB DEV</string>
+    <string name="algos">ALGOS</string>
+    <string-array name="DEPARTMENTS">
+        <item name="CSE"></item>
+        <item name="ECE"></item>
+        <item name="EEE"></item>
+        <item name="MECH"></item>
+        <item name="ARCHI"></item>
+        <item name="PROD"></item>
+        <item name="META"></item>
+        <item name="CIVIL"></item>
+        <item name="CHEM"></item>
+    </string-array>
+    <string name="tronix">TRONIX</string>
+    <string name="mentor">Do you need a mentor?</string>
+    <string name="submit">Submit</string>
+    <string name="profile">Choose your profiles:</string>
+    <string name="timestamp">TIMSTAMP:</string>
+</resources>
